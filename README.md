@@ -1,6 +1,6 @@
-# Financial Advisor 
+# FA 
 
-This project is custom made platform which enables financial advising for funds
+This project is custom made platform
 
 ## Getting Started
 
