@@ -1,0 +1,324 @@
+{
+    "ranks": {
+        1: [
+        	{
+        		"key": 1,
+        		"amount":80,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#1F77B4'},
+        	},
+        	{
+				"key": 2,
+				"amount":20,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":0,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'}, 
+          	},
+          	{
+          		"key": 4,
+				"amount":0,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":0,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	],
+     	2: [
+        	{
+        		"key": 1,
+        		"amount":70,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#1F77B4'},
+        	},
+        	{
+				"key": 2,
+				"amount":15,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":15,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'},
+          	},
+          	{
+          		"key": 4,
+				"amount":0,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":0,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	],
+     	3: [
+        	{
+        		"key": 1,
+        		"amount":60,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#1F77B4'},
+        	},
+        	{
+				"key": 2,
+				"amount":15,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":15,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'},
+          	},
+          	{
+          		"key": 4,
+				"amount":10,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":0,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	],
+     	4: [
+        	{
+        		"key": 1,
+        		"amount":50,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#1F77B4'},
+        	},
+        	{
+				"key": 2,
+				"amount":20,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":20,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'},
+          	},
+          	{
+          		"key": 4,
+				"amount":10,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":0,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	],
+     	5: [
+        	{
+        		"key": 1,
+        		"amount":40,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#1F77B4'},
+        	},
+        	{
+				"key": 2,
+				"amount":20,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":20,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'},
+          	},
+          	{
+          		"key": 4,
+				"amount":20,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":0,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	],
+     	6: [
+        	{
+        		"key": 1,
+        		"amount":35,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#1F77B4'},
+        	},
+        	{
+				"key": 2,
+				"amount":25,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":5,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'},
+          	},
+          	{
+          		"key": 4,
+				"amount":30,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":5,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	],
+     	7: [
+        	{
+        		"key": 1,
+        		"amount":20,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#1F77B4'},
+        	},
+        	{
+				"key": 2,
+				"amount":25,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":25,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'},
+          	},
+          	{
+          		"key": 4,
+				"amount":25,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":5,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	],
+     	8: [
+        	{
+        		"key": 1,
+        		"amount":10,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#600080'},
+        	},
+        	{
+				"key": 2,
+				"amount":20,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":40,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'},
+          	},
+          	{
+          		"key": 4,
+				"amount":20,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":10,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	],
+     	9: [
+        	{
+        		"key": 1,
+        		"amount":5,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#600080'},
+        	},
+        	{
+				"key": 2,
+				"amount":15,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":40,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'},
+          	},
+          	{
+          		"key": 4,
+				"amount":25,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":15,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	],
+     	10: [
+        	{
+        		"key": 1,
+        		"amount":0,
+        		"label": 'Bonds',
+          		"svg": { "fill": '#600080'},
+        	},
+        	{
+				"key": 2,
+				"amount":5,
+        		"label": 'Large Cap',
+          		"svg": { "fill": '#AEC7E8'},
+          	},
+          	{
+          		"key": 3,
+				"amount":25,
+        		"label": 'Mid Cap',
+          		"svg": { "fill": '#FF7F0E'},
+          	},
+          	{
+          		"key": 4,
+				"amount":30,
+        		"label": 'Foregin',
+          		"svg": { "fill": '#FFBB78'},
+          	},
+          	{
+          		"key": 5,
+				"amount":40,
+        		"label": 'Small Cap',
+          		"svg": { "fill": '#4BAD4C'},
+          	}
+     	]	
+    }
+}
