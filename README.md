@@ -1,4 +1,4 @@
-# FA 
+# Fund Advisor Sample App 
 
 This project is custom made platform
 
